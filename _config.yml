@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: [DCM Command Line Tools for IBM i]
+description: [These are setup instructions and examples of how to use DCM Command Line Tools for IBM i (Digital Certificate Manager)]
+markdown: kramdown
+google_analytics: UA-128990499-4
