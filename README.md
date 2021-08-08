@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Purpose
 
 You can use the [editor on GitHub](https://github.com/K3S/dcmtools/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# About K3S (King III Solutions, Inc)
+
+[K3S](https://k3s.com) is a software development company that specializes in inventory management and procurement solutions for the distribution industry. Their applications and solutions are developed to run on the IBM i OS (the best enterprise level OS!) and interface with any ERP application on any platform. 
+
+As well K3S open sources many of its [Guides & Utilities ](https://technical.k3s.com/docs/utilities/) in an effort to improve the IBM i community. 
+
