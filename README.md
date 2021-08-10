@@ -1,8 +1,8 @@
 # Purpose
 
-I have created this guide as a reference for myself, but also to help others who might be trying to accomplish the same thing. Much of this info is copied and pasted, and I do not represent it as my own, only that I have aggregated it into one place for ease-of-use (there were many different sources for all of this). 
+I have created this guide as a reference on how to create and install SSL certificates for the IBM i with the command line DCM Tools. The current GUI tools for DCM is... ok. The hope of this guide is to make it significantly easier to use and incorporate [Let's Encrypt](https://letsencrypt.org/), a free service to provide SSL certificates.
 
-Notably, thank you to [Chuk Shirley](https://github.com/chukShirley){:target="_blank" rel="noopener"}, [Stephanie Rabbini](https://twitter.com/jordiwes){:target="_blank" rel="noopener"}, [Alan Seiden](https://twitter.com/alanseiden){:target="_blank" rel="noopener"}, [Dave Dressler](https://godzillai5.wordpress.com/){:target="_blank" rel="noopener"}, and [Kevin Adler](https://twitter.com/kadler_ibm){:target="_blank" rel="noopener"}. 
+Notably, thank you to [Jesse Gorzinski](https://twitter.com/IBMJesseG){:target="_blank" rel="noopener"}, for developing such great tools!. 
 
 # Synopsis (What The Heck Does This All Mean??)
 
