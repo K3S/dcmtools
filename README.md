@@ -2,7 +2,7 @@
 
 I have created this guide as a reference on how to create and install SSL certificates for the [IBM i OS](https://en.wikipedia.org/wiki/IBM_i) with the command line DCM Tools. Understanding the current encryption offerings, setup, and what everything means is kinda confusing. The current GUI tools for DCM is... ok. The hope of this guide is to make it significantly easier to understand, use, and issue your own certificate OR incorporate [Let's Encrypt](https://letsencrypt.org/), a free service to provide SSL certificates.
 
-Notably, thank you to [Jesse Gorzinski](https://twitter.com/IBMJesseG){:target="_blank" rel="noopener"}, for developing such great tools!. 
+Notably, thank you to [Jesse Gorzinski](https://twitter.com/IBMJesseG){:target="_blank" rel="noopener"}, for developing such great tools! 
 
 ## Synopsis
 
